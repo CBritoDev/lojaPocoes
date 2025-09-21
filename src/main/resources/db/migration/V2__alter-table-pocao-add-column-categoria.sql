@@ -1,0 +1,1 @@
+ALTER TABLE pocao ADD categoria VARCHAR(50) NOT NULL;
